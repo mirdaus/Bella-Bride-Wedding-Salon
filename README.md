@@ -56,3 +56,4 @@ docker run -d --name wedding-salon -p 8080:80 wedding-salon:v1
 ```
 
 Once running, access the website in your browser at `http://localhost:8080`.
+# Bella-Bride-Wedding-Salon
